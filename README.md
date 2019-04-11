@@ -1,5 +1,5 @@
 # Product_Purchase_Frequency
-A small project to find how often a certain product.<br>
+A small project to find how often a certain product is sold.<br>
 
 # Future Directions <br>
 
