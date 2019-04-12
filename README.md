@@ -1,10 +1,6 @@
 # Product_Purchase_Frequency
 A small project to find how often a certain product is sold.<br>
 
-# Future Directions <br>
-
-This assignment could be used for recommendation systems.
-
 # Modules
 
 pandas<br>
@@ -13,6 +9,10 @@ turricreate<br>
  sklearn<br>
  sys<br>
  random<br>
+ 
+ # Future Directions <br>
+
+This assignment could be used for recommendation systems.
  
  # References
  
