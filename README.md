@@ -3,7 +3,7 @@ A small project to find how often a certain product is sold.<br>
 
 # Future Directions <br>
 
-This assignment could be used for future recommendation systems.
+This assignment could be used for recommendation systems.
 
 # Modules
 
