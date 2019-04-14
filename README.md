@@ -5,10 +5,12 @@ A small project to find how often a certain product is sold.<br>
 
 pandas<br>
 turricreate<br>
- warnings<br>
- sklearn<br>
- sys<br>
- random<br>
+warnings<br>
+sklearn<br>
+sys<br>
+random<br>
+flask<br>
+pickle<br>
  
  # Future Directions <br>
 
@@ -27,5 +29,7 @@ This assignment could be used for recommendation systems.
  https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6  <br>
  
  https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0 <br>
+ 
+ https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776 <br>
  
  
