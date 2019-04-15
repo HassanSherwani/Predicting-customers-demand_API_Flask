@@ -11,12 +11,24 @@
 		<div id="brandname">
 			API_ML
 		</div>
-		<h2>API for product purchase frequency</h2>
+		<h2>Product purchase frequency</h2>
 		
+
+
 	</div>
 	</header>
 	<p style="color:blue;font-size:20;text-align: center;"><b>Result for prod_ID</b></p>
 	<div class="results">
+
+
+	{% ifprod_ID not in prod_freq.index:%}
+	<h2 style="color:red;">Product ID not found.</h2>
+	{% elif product = product_frequency(prod_ID))}
+	<h2 style="color:blue;"> product </h2>
+	{% endif %}
+
+
+
 
 
 	</div>
