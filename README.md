@@ -1,5 +1,5 @@
-# Product_Purchase_Frequency
-A small project to find how often a certain product is sold.<br>
+# Predicting customers' demand at an individual level
+A project to find how often a certain product is sold and how could we predict customers' demand for product according to their purchasing trends.<br>
 
 # Modules
 
@@ -17,6 +17,8 @@ pickle<br>
 This assignment could be used for recommendation systems.
  
  # References
+ 
+ Agrahri, H.; Ahmed, F.; Verma, V.K.; Purohit, J.K. Beneﬁts of implement big data driven supply chain management: An ISM based model. Int. J. Eng. Sci. 2017, 7, 11426–11431 <br>
  
  https://blog.smile.io/how-to-calculate-purchase-frequency  <br>
  
